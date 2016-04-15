@@ -1,9 +1,10 @@
 #IF YOU FORGET ME
 
-I want you to know
-one thing.
+> I want you to know
+> one thing.
+Quote break.
+> You know how this is:
 
-You know how this is:
 if I look
 at the crystal moon, at the red branch
 of the slow autumn at my window,
