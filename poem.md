@@ -1,9 +1,8 @@
 #IF YOU FORGET ME
 
-> I want you to know
-> one thing.
-Quote break.
-> You know how this is:
+I want you to know
+one thing.
+You know how this is:
 
 if I look
 at the crystal moon, at the red branch
@@ -56,4 +55,4 @@ and as long as you live it will be in your arms
 without leaving mine
 
 - *Pablo Neruda*
-[http://famouspoetsandpoems.com/poets/pablo_neruda/poems/15705
+[http://famouspoetsandpoems.com/poets/pablo_neruda/poems/15705]
