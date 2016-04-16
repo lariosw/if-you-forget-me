@@ -1,8 +1,6 @@
 
-<body style="background-color:lightgrey;">
-
-<h2 style="font-family:sans-serif;">Pablo Neruda</h2>
-#_IF YOU FORGET ME_
+Pablo Neruda
+#IF YOU FORGET ME
 I want you to know
 one thing.
 
