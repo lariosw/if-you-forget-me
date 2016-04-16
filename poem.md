@@ -1,5 +1,5 @@
-
-<img src="https://raw.githubusercontent.com/lariosw/if-you-forget-me/master/pnerudaphoto.jpg">
+#Pablo Neruda
+<img src="https://raw.githubusercontent.com/lariosw/if-you-forget-me/master/pnerudaphoto.jpg"><br>
 #IF YOU FORGET ME
 I want you to know
 one thing.
@@ -22,7 +22,7 @@ toward those isles of yours that wait for me.
 Well, now,
 if little by little you stop loving me
 I shall stop loving you little by little.
-If suddenly
+If <strong>suddenly</strong>
 you forget me
 do not look for me,
 for I shall already have forgotten you.
